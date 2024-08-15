@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://tailwind-card-ui.vercel.app/">
-    <img src="./assets/vite.svg" alt="Logo" width="80" height="80">
+    <img src="./assets/tailwind-logo.png" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">Tailwind Card Component</h3>
 
